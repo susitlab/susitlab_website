@@ -1,5 +1,5 @@
 ---
-title: Research topic
+title: Research Topics
 
 # Listing view
 view: compact

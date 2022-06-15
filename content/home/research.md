@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 30
 
-title: Research topic
+title: Research Topics
 subtitle:
 
 content:
@@ -16,7 +16,7 @@ content:
     publication_type: ""
     tag: ""
   offset: 0
-  order: asc
+  order: desc
   page_type: research
 design:
   view: 2

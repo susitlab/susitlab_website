@@ -7,8 +7,8 @@ summary: ""
 authors: []
 tags: []
 categories: []
-date: 2022-06-04T20:48:46+08:00
-lastmod: 2022-06-04T20:48:46+08:00
+date: 2022-06-05T20:48:46+08:00
+lastmod: 2022-06-05T20:48:46+08:00
 featured: false
 draft: false
 summary: 深度学习监控治疗位点
