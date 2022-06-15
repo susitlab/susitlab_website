@@ -52,7 +52,7 @@ header:
 # Localization
 
 locale:
-  date_format: '2006/1'
+  date_format: '2006/01'
   time_format: '3:04 PM'
   address_format: en-us
 
