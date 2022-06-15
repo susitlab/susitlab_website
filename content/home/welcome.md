@@ -4,7 +4,7 @@ widget_id: new
 headless: true
 weight: 10
 title: |
-  SUSIT
+  SUSIT LAB
 hero_media: lab.jpg
 design:
   columns: "1"
@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The Smart Ultrasound Imaging and Therapy lab (**SUSIT**) has been a center of excellence for ultrasound research, teaching, and practice since its founding in 2020.
+Smart Ultrasound Imaging and Therapy lab (**SUSIT**) devotes to develop methodologies and equipements in the field of ultrasound for the good of human health.
