@@ -54,4 +54,4 @@ design:
   columns: '1'
 ---
 
-We are currently recruiting……
+We are currently recruiting students majored in Electrical Engineering, Computer Sciences, Information and Communication Engineering, Biomedical Engineering, Physics and Acoustics.

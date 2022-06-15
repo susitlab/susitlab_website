@@ -94,7 +94,7 @@ I received the best talk award at the IBDW (2017) and the traveling award of IUS
 
 I am currently an Assistant Professor in the School of Information Science and Technology at ShanghaiTech University.
 
-I received support of 'Shanghai Overseas Talent Program' and a grant from the 'Shanghai Sailing Program'.
+I received support of ‘Shanghai High-Level Overseas Talent Program’ and a grant from the ‘Shanghai Sailing Program’.
 
 I serve as a reviewer for academic journals including IEEE TUFFC、Ultrasonics、IEEE TMI.
 
