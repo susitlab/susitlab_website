@@ -13,8 +13,8 @@ main:
   - name: Research
     url: research
     weight: 40
-  - name: Publication
-    url: publication
+  - name: Publications
+    url: publications
     weight: 50
   - name: Contact
     url: contact
