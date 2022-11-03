@@ -1,33 +1,37 @@
 ---
 # Display name
-title: 黄一鸣
+title: 连奕航
 
 # Username (this should match the folder name)
 authors:
-- 黄一鸣
+- YihangLian
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate Students
+role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: ShanghaiTech
-  url: "https://www.shanghaitech.edu.cn/"
+- name: Shanghaitech university
+  url: "https://sist.shanghaitech.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:  Lian Yihang is an undergraduate majoring in computer science at Shanghaitech University. He is currently working on deep learning for 3D passive cavitation imaging.
 
 interests:
-- Ultrasound computed tomography
+- Deep learning for Ultrasound Imaging
+- 3D Passive Cavitation Imaging
+
 
 education:
   courses:
-  - course: Electronic Information Engineering
-    institution: Shanghai Technology University
-    year: 2018
+  - course: Computer science
+    institution: ShanghaiTech University
+    year: 2019
+  
+  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -36,7 +40,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:huangym@shanghaitech.edu.cn'
+  link: 'mailto:lianyh@shanghaitech.edu.cn'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -44,15 +49,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "huangym@shanghaitech.edu.cn"
+email: "lianyh@shanghaitech.edu.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Student
+- Undergraduate Student
 ---
 ## **Biography**
 
-**Yiming Huang** is a undergraduate student of electronic information engineering at the SUSIT in Shanghai Technology University. His research interests include Ultrasound computed tomography.
-
-​	
+**Lian Yihang** is an undergraduate majoring in computer science at Shanghaitech University. He is currently working on deep learning for 3D passive cavitation imaging.

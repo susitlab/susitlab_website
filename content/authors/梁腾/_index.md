@@ -1,33 +1,38 @@
 ---
 # Display name
-title: 黄一鸣
+title: 梁腾
 
 # Username (this should match the folder name)
 authors:
-- 黄一鸣
+- TengLiang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate Students
+role: Master Student
 
 # Organizations/Affiliations
 organizations:
-- name: ShanghaiTech
-  url: "https://www.shanghaitech.edu.cn/"
+- name: Shanghaitech university
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
+# Teng Liang is a graduate student of computer science at the SUSIT in shanghaitech university. His research interests include ultrasound image reconstruction.
+
 
 interests:
-- Ultrasound computed tomography
+- Ultrasound imaging reconstruction
+
 
 education:
   courses:
-  - course: Electronic Information Engineering
-    institution: Shanghai Technology University
+  - course: Computer Science
+    institution: Shanghaitech university
     year: 2018
+  
+  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -36,7 +41,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:huangym@shanghaitech.edu.cn'
+  link: 'mailto:liangteng@shanghaitech.edu.cn'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -44,7 +50,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "huangym@shanghaitech.edu.cn"
+email: "liangteng@shanghaitech.edu.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -52,7 +58,4 @@ user_groups:
 - Master Student
 ---
 ## **Biography**
-
-**Yiming Huang** is a undergraduate student of electronic information engineering at the SUSIT in Shanghai Technology University. His research interests include Ultrasound computed tomography.
-
-​	
+Teng Liang is a graduate student of computer science at the SUSIT in shanghaitech university. His research interests include ultrasound image reconstruction.
